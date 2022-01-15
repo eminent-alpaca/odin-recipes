@@ -1,0 +1,36 @@
+/* style.css */
+
+body{
+	background-color: #272727;
+	color: rgb(207, 207, 207);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+h1,h2,h3{
+	color: #777;
+	padding-bottom: 20px;
+
+}
+
+
+li {
+	color: wheat;
+	padding: 5px;
+}
+
+a {
+	color: wheat;
+	
+}
+
+a :visited {
+	color: lightgrey;
+}
+
+img{
+	float: left;
+	margin: 0px 50px 20px 0px;
+	width: 400px;
+}
